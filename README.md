@@ -1,7 +1,5 @@
 # Sobre mim
 
-**`Desenvolvedora FullStack`**
-
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS)
 - 💻 Especializando em Desenvolvimento Backand com JavaScript
 - 💻 Focado em construir APIs escaláveis e buscando constantemente aplicar as melhores práticas de arquitetura.
