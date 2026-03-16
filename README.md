@@ -72,3 +72,11 @@
 <br/>
 <br/>
 
+---
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GustavooAndrade/GustavooAndrade/output/snake.svg" alt="Snake animation" />
+
+###
